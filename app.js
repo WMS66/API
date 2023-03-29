@@ -29,15 +29,15 @@ app.put('/empregados/ti/:id', (req, res)=>{
 
 const empregados = [
 {
-  nome: "Wanderley",
+  nome: "Wanderley002",
   funcao: 'desenvolvedor'
 },
 {
-  nome: "Samuel",
+  nome: "wanderley001",
   funcao: 'engenheiro de software'
 },
 {
-  nome: "Marly",
+  nome: "silva",
   funcao: 'secretaria'
 }
 ];

@@ -6,5 +6,5 @@ var igualdadeStringEstrita = 0 === null;
 
 // console.log (typeof('15'));
 // console.log (typeof(15));
-console.log('Igualdade ampla '+ igualdadeString);
-console.log('Igualdade estrita '+ igualdadeStringEstrita);
+console.log("Igualdade ampla " + igualdadeString);
+console.log("Igualdade estrita " + igualdadeStringEstrita);
